@@ -147,6 +147,7 @@ Com o Jenkins acessível via IP público, foi possível configurar um webhook no
 Foi utilizado o plugin **"GitHub Integration"** e configurado um pipeline declarativo para automatizar os processos de build.
 
 ![Configuração do Webhook no Jenkins](/GCP-Prints/stp11.png)
+
 ![Configuração do Webhook no GitHub](/GCP-Prints/stp12.png)
 
 ### ** ✅ Considerações Finais**
